@@ -1,10 +1,10 @@
-<img src= "https://github.com/RutvikJ77/RutvikJ77/blob/master/assets/github%20profile.png"></img>
+
 <div style="display:flex; flex-flow:row wrap; justify-content:space-between"; align-items:center;">
   <span style="display:block"; text-align:left;">Hello!</span>
-  <p style="display:block"; text-align:center;">I'm</p>
+  <p style="display:block"; text-align:center; margin-left:50px;">I'm</p>
   <h1 style="display:block"; text-align:right;">Pablo García</h1>
   <ul>
-    <li>Frontend Developer</li>
+    <li style="list-style:none;">Frontend Developer</li>
     <li>UI DESIGNER</li> 
   </ul>
 </div>
