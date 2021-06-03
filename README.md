@@ -1,14 +1,6 @@
 <img src="https://github.com/blopez-dev/blopez-dev/blob/main/PabloGarcia.jpg" alt="Pablo José García">
 
-<div style="display:flex; flex-flow:row wrap; justify-content:space-between"; align-items:center;">
-  <span style="display:block"; text-align:left;">Hello!</span>
-  <p style="display:block"; text-align:center; margin-left:50px;">I'm</p>
-  <h1 style="display:block"; text-align:right;">Pablo García</h1>
-  <ul>
-    <li style="list-style:none;">Frontend Developer</li>
-    <li>UI DESIGNER</li> 
-  </ul>
-</div>
+
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning
 - Mongo
