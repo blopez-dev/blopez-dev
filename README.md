@@ -3,24 +3,24 @@
 
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning
-- Mongo
+- Typescript
 - GraphQL
-- python
+- Docker
 - Node
 
 ### 💻 I'm working on
-- Application for hospital management
-- My portfolio website.
+- New portfolio for me with Next.js, Prisma and SQL
 
 
-### 🌱 Goals for 2021
-- Build 10+ projects Full STACK.
-- Contribute to Open Source.
+### 🌱 Goals for 2022
+- Open a totally free site with react bases for everyone
+- New projects witt React, typescript and styled-components
+- Finish new component library with react, typescript and storybook
 
 ### 💭 Ask me about
-- Design 🎨
+- Tech
+- UX/UI
 - Economy 📈
-- Gaming 💻
 
 <!--
 ### 🌴 Fun facts
