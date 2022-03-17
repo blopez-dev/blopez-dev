@@ -33,13 +33,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/styled-components/styled-components-original.svg" alt="Styled-components" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>   
-       
-    <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>     
-    
-    
-    
+ <span style="display:block; width:40px; height:40px">💅</span>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>  
    </p>
 
 
