@@ -1,10 +1,10 @@
-[Portfolio](https://okikio.dev) \| [About](#about) \| [Contact](#contact) \| [Blog](https://blog.okikio.dev)
+[Portfolio](https://https://blopez-dev.netlify.app/) \| [About](#about) \| [Contact](#contact) \| [Blog](https://blog.https://blopez-dev.netlify.app/)
 
 # Hello, I’m **Pablo.**
 
 <div style="display:flex">
 
-[//]: # (![A black and white profile photo of Okiki Ojo, smiling, looking straight forward, behind a brick wall backdrop. He is wearing glasses, a black shirt and jacket, and wireless headphones which are hanging on his neck.]&#40;https://okikio.dev/images/upload/f_auto,q_auto:best,c_limit/w_400,dpr_auto/okikio/okiki-ojo.jpg&#41;)
+[//]: # (![A black and white profile photo of Okiki Ojo, smiling, looking straight forward, behind a brick wall backdrop. He is wearing glasses, a black shirt and jacket, and wireless headphones which are hanging on his neck.]&#40;https://https://blopez-dev.netlify.app//images/upload/f_auto,q_auto:best,c_limit/w_400,dpr_auto/okikio/okiki-ojo.jpg&#41;)
 
  </div>
 
@@ -23,7 +23,7 @@ I have experience in Javascript, Typescript, React, Next.js, Vue.js, Styled Comp
 
 [//]: # (| :------------------------------------------------------- | :-------------------------------------------------------------------- | :---------------------------------------------------- | :------------------------------------------------- | :------------------------------------------------------ |)
 
-[//]: # (| [transferables]&#40;https://github.com/okikio/transferables&#41; | [spring-easing]&#40;https://spring-easing.okikio.dev&#41;                     | [@okikio/animate]&#40;https://native.okikio.dev/animate&#41;  | [@okikio/native]&#40;https://native.okikio.dev/native&#41; | [@okikio/sharedworker]&#40;https://sharedworker.okikio.dev&#41; |)
+[//]: # (| [transferables]&#40;https://github.com/okikio/transferables&#41; | [spring-easing]&#40;https://spring-easing.https://blopez-dev.netlify.app/&#41;                     | [@okikio/animate]&#40;https://native.https://blopez-dev.netlify.app//animate&#41;  | [@okikio/native]&#40;https://native.https://blopez-dev.netlify.app//native&#41; | [@okikio/sharedworker]&#40;https://sharedworker.https://blopez-dev.netlify.app/&#41; |)
 
 [//]: # (| [Codepen Projects]&#40;https://codepen.com/okikio&#41;           | [Legacy Projects]&#40;https://www.khanacademy.org/profile/liteo/projects&#41; | [More...]&#40;https://github.com/okikio?tab=repositories&#41; |                                                    |                                                         |)
 
@@ -31,7 +31,7 @@ I have experience in Javascript, Typescript, React, Next.js, Vue.js, Styled Comp
 [//]: # (## Contact.)
 
 [//]: # ()
-[//]: # (| [LinkedIn]&#40;https://www.linkedin.com/in/okikio&#41;         | [Twitter]&#40;https://twitter.com/okikio_dev&#41; | [Reddit]&#40;https://www.reddit.com/user/okikio_dev&#41;        | [Blog]&#40;https://blog.okikio.dev&#41;                                              |)
+[//]: # (| [LinkedIn]&#40;https://www.linkedin.com/in/okikio&#41;         | [Twitter]&#40;https://twitter.com/https://blopez-dev.netlify.app/&#41; | [Reddit]&#40;https://www.reddit.com/user/https://blopez-dev.netlify.app/&#41;        | [Blog]&#40;https://blog.https://blopez-dev.netlify.app/&#41;                                              |)
 
 [//]: # (| :----------------------------------------------------- | :---------------------------------------- | :------------------------------------------------------ | :--------------------------------------------------------------------------- |)
 
@@ -39,9 +39,9 @@ I have experience in Javascript, Typescript, React, Next.js, Vue.js, Styled Comp
 
 [//]: # (| [Codepen]&#40;https://codepen.io/okikio&#41;                   | [Daily.dev]&#40;https://app.daily.dev/okikio&#41; | [Product Hunt]&#40;https://www.producthunt.com/@okiki_ojo&#41;  | [Stackoverflow]&#40;https://stackoverflow.com/users/12140185/okikio?tab=profile&#41; |)
 
-[//]: # (| [Buy me a coffee]&#40;https://www.buymeacoffee.com/okikio&#41; | [Email]&#40;mailto:hey@okikio.dev&#41;            | [@inthistweet_dev]&#40;https://twitter.com/inthistweet_dev&#41; | [@jsbundle]&#40;https://twitter.com/jsbundle&#41;                                    |)
+[//]: # (| [Buy me a coffee]&#40;https://www.buymeacoffee.com/okikio&#41; | [Email]&#40;mailto:hey@https://blopez-dev.netlify.app/&#41;            | [@inthistweet_dev]&#40;https://twitter.com/inthistweet_dev&#41; | [@jsbundle]&#40;https://twitter.com/jsbundle&#41;                                    |)
 
-[//]: # (| [Mastodon]&#40;https://uiuxdev.social/@okikio_dev&#41;         |                                           |                                                         |)
+[//]: # (| [Mastodon]&#40;https://uiuxdev.social/@https://blopez-dev.netlify.app/&#41;         |                                           |                                                         |)
 
 
 **© 2023 Blopez-dev. All rights reserved.**
