@@ -1,41 +1,47 @@
-<img src="https://github.com/blopez-dev/blopez-dev/blob/main/PabloGarcia.jpg" alt="Pablo José García">
+[Portfolio](https://okikio.dev) \| [About](#about) \| [Contact](#contact) \| [Blog](https://blog.okikio.dev)
+
+# Hello, I’m **Pablo.**
+
+<div style="display:flex">
+
+[//]: # (![A black and white profile photo of Okiki Ojo, smiling, looking straight forward, behind a brick wall backdrop. He is wearing glasses, a black shirt and jacket, and wireless headphones which are hanging on his neck.]&#40;https://okikio.dev/images/upload/f_auto,q_auto:best,c_limit/w_400,dpr_auto/okikio/okiki-ojo.jpg&#41;)
+
+ </div>
+
+## About.
+
+Hey, I am Pablo G. López, (blopez). I'm a Software Engineering, a web developer, an avid fan of open source. I am always eager to take on new challenges, and aim to exceed in all tasks I take on.
+
+### Skills
+
+I have experience in Javascript, Typescript, React, Next.js, Vue.js, Styled Components, SASS, Node.js, SQL, NoSQL, Astro. I prefer to learn skills as I need them, so I can focus on finding solutions to problems.
+
+## Featured Projects.
+
+[//]: # ()
+[//]: # (| [bundlejs]&#40;https://bundlejs.com&#41;                         | [inthistweet]&#40;https://inthistweet.app/&#41;                               | [reindeere]&#40;https://reindeere.ca&#41;                     | [jabodent]&#40;https://jabodent.com&#41;                   | [josephojo]&#40;https://josephojo.com&#41;                      |)
+
+[//]: # (| :------------------------------------------------------- | :-------------------------------------------------------------------- | :---------------------------------------------------- | :------------------------------------------------- | :------------------------------------------------------ |)
+
+[//]: # (| [transferables]&#40;https://github.com/okikio/transferables&#41; | [spring-easing]&#40;https://spring-easing.okikio.dev&#41;                     | [@okikio/animate]&#40;https://native.okikio.dev/animate&#41;  | [@okikio/native]&#40;https://native.okikio.dev/native&#41; | [@okikio/sharedworker]&#40;https://sharedworker.okikio.dev&#41; |)
+
+[//]: # (| [Codepen Projects]&#40;https://codepen.com/okikio&#41;           | [Legacy Projects]&#40;https://www.khanacademy.org/profile/liteo/projects&#41; | [More...]&#40;https://github.com/okikio?tab=repositories&#41; |                                                    |                                                         |)
+
+[//]: # ()
+[//]: # (## Contact.)
+
+[//]: # ()
+[//]: # (| [LinkedIn]&#40;https://www.linkedin.com/in/okikio&#41;         | [Twitter]&#40;https://twitter.com/okikio_dev&#41; | [Reddit]&#40;https://www.reddit.com/user/okikio_dev&#41;        | [Blog]&#40;https://blog.okikio.dev&#41;                                              |)
+
+[//]: # (| :----------------------------------------------------- | :---------------------------------------- | :------------------------------------------------------ | :--------------------------------------------------------------------------- |)
+
+[//]: # (| [GitHub]&#40;https://github.com/okikio&#41;                    | [Dev.to]&#40;https://dev.to/okikio&#41;           | [Hackernoon]&#40;https://hackernoon.com/u/okikio&#41;           | [CSS-Tricks]&#40;https://css-tricks.com/author/okikiojo/&#41;                        |)
+
+[//]: # (| [Codepen]&#40;https://codepen.io/okikio&#41;                   | [Daily.dev]&#40;https://app.daily.dev/okikio&#41; | [Product Hunt]&#40;https://www.producthunt.com/@okiki_ojo&#41;  | [Stackoverflow]&#40;https://stackoverflow.com/users/12140185/okikio?tab=profile&#41; |)
+
+[//]: # (| [Buy me a coffee]&#40;https://www.buymeacoffee.com/okikio&#41; | [Email]&#40;mailto:hey@okikio.dev&#41;            | [@inthistweet_dev]&#40;https://twitter.com/inthistweet_dev&#41; | [@jsbundle]&#40;https://twitter.com/jsbundle&#41;                                    |)
+
+[//]: # (| [Mastodon]&#40;https://uiuxdev.social/@okikio_dev&#41;         |                                           |                                                         |)
 
 
-<!-- Create a tabular data for blog posts-->
-### ✔️ I'm currently learning
-- Typescript
-- GraphQL
-- Docker
-- Node
-
-### 💻 I'm working on
-- New portfolio for me with Next.js, Prisma and SQL
-
-
-### 🌱 Goals for 2022
-- Open a totally free site with react bases for everyone
-- New projects witt React, typescript and styled-components
-- Finish new component library with react, typescript and storybook
-
-### 💭 Ask me about
-- Tech
-- UX/UI
-- Economy 📈
-
-<!--
-### 🌴 Fun facts
-- Trying to explore the mysteries.
-- Congratualtions on making through the shell.-->
-
-### 🗣 Languages and Tools
-
-<p align="left"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="40" height="40"/>
- <span style="display:block; width:40px; height:40px">💅</span>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>  
-   </p>
-
-
+**© 2023 Blopez-dev. All rights reserved.**
