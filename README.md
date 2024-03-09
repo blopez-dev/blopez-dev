@@ -1,47 +1,45 @@
-[Portfolio](https://https://blopez-dev.netlify.app/) \| [About](#about) \| [Contact](#contact) \| [Blog](https://blog.https://blopez-dev.netlify.app/)
+<h1 align="center">Hi 👨‍💻, I'm Pablo J. García</h1>
 
-# Hello, I’m **Pablo.**
 
-<div style="display:flex">
+<!-- <h3 align="center">A passionate MERN stack developer.</h3> -->
 
-[//]: # (![A black and white profile photo of Okiki Ojo, smiling, looking straight forward, behind a brick wall backdrop. He is wearing glasses, a black shirt and jacket, and wireless headphones which are hanging on his neck.]&#40;https://https://blopez-dev.netlify.app//images/upload/f_auto,q_auto:best,c_limit/w_400,dpr_auto/okikio/okiki-ojo.jpg&#41;)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines= I am a Full-stack%20web%20developer 🏻‍💻;I am interested in Coding awesome websites♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+</p>
 
- </div>
+![Profile views counter](https://komarev.com/ghpvc/?username=blopez-dev&&style=flat-square)
 
-## About.
+<br/>
 
-Hey, I am Pablo G. López, (blopez). I'm a Software Engineering, a web developer, an avid fan of open source. I am always eager to take on new challenges, and aim to exceed in all tasks I take on.
+[//]: # (<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />)
 
-### Skills
+- 🔭 I’m currently working as **SFR (SENIOR FROTEND DEVELOER)**
 
-I have experience in Javascript, Typescript, React, Next.js, Vue.js, Styled Components, SASS, Node.js, SQL, NoSQL, Astro. I prefer to learn skills as I need them, so I can focus on finding solutions to problems.
+- 🌱 I’m currently learning **Node, PostgreSQL**
 
-## Featured Projects.
+- 👨‍💻 All of my projects are available at <a href="https://github.com/blopez-dev?tab=repositories">Here</a>
 
-[//]: # ()
-[//]: # (| [bundlejs]&#40;https://bundlejs.com&#41;                         | [inthistweet]&#40;https://inthistweet.app/&#41;                               | [reindeere]&#40;https://reindeere.ca&#41;                     | [jabodent]&#40;https://jabodent.com&#41;                   | [josephojo]&#40;https://josephojo.com&#41;                      |)
+- 💬 Ask me about **MERN Stack**
 
-[//]: # (| :------------------------------------------------------- | :-------------------------------------------------------------------- | :---------------------------------------------------- | :------------------------------------------------- | :------------------------------------------------------ |)
+- 📫 How to reach me **<a href="https://www.linkedin.com/in/pablojgar">Linkedin</a>**
 
-[//]: # (| [transferables]&#40;https://github.com/okikio/transferables&#41; | [spring-easing]&#40;https://spring-easing.https://blopez-dev.netlify.app/&#41;                     | [@okikio/animate]&#40;https://native.https://blopez-dev.netlify.app//animate&#41;  | [@okikio/native]&#40;https://native.https://blopez-dev.netlify.app//native&#41; | [@okikio/sharedworker]&#40;https://sharedworker.https://blopez-dev.netlify.app/&#41; |)
+- ↗️ Hobbies ->  **Running 🏃, reading 📖, music 🎧**
 
-[//]: # (| [Codepen Projects]&#40;https://codepen.com/okikio&#41;           | [Legacy Projects]&#40;https://www.khanacademy.org/profile/liteo/projects&#41; | [More...]&#40;https://github.com/okikio?tab=repositories&#41; |                                                    |                                                         |)
-
-[//]: # ()
-[//]: # (## Contact.)
+[//]: # (- ⚡See my **<a href="https://centauricoder01.github.io/">Portfolio</a>**)
 
 [//]: # ()
-[//]: # (| [LinkedIn]&#40;https://www.linkedin.com/in/okikio&#41;         | [Twitter]&#40;https://twitter.com/https://blopez-dev.netlify.app/&#41; | [Reddit]&#40;https://www.reddit.com/user/https://blopez-dev.netlify.app/&#41;        | [Blog]&#40;https://blog.https://blopez-dev.netlify.app/&#41;                                              |)
-
-[//]: # (| :----------------------------------------------------- | :---------------------------------------- | :------------------------------------------------------ | :--------------------------------------------------------------------------- |)
-
-[//]: # (| [GitHub]&#40;https://github.com/okikio&#41;                    | [Dev.to]&#40;https://dev.to/okikio&#41;           | [Hackernoon]&#40;https://hackernoon.com/u/okikio&#41;           | [CSS-Tricks]&#40;https://css-tricks.com/author/okikiojo/&#41;                        |)
-
-[//]: # (| [Codepen]&#40;https://codepen.io/okikio&#41;                   | [Daily.dev]&#40;https://app.daily.dev/okikio&#41; | [Product Hunt]&#40;https://www.producthunt.com/@okiki_ojo&#41;  | [Stackoverflow]&#40;https://stackoverflow.com/users/12140185/okikio?tab=profile&#41; |)
-
-[//]: # (| [Buy me a coffee]&#40;https://www.buymeacoffee.com/okikio&#41; | [Email]&#40;mailto:hey@https://blopez-dev.netlify.app/&#41;            | [@inthistweet_dev]&#40;https://twitter.com/inthistweet_dev&#41; | [@jsbundle]&#40;https://twitter.com/jsbundle&#41;                                    |)
-
-[//]: # (| [Mastodon]&#40;https://uiuxdev.social/@https://blopez-dev.netlify.app/&#41;         |                                           |                                                         |)
+[//]: # (- 👨‍ See my **<a href="https://drive.google.com/file/d/13DAR6ijY6RVPPd91ln5tlcSE5fZfmqNC/view?usp=sharing">Resume</a>**)
 
 
-**© 2023 Blopez-dev. All rights reserved.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/blopez_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_r_patel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pablojgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajendra01" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" alt="css3"/>   
+ </p>
